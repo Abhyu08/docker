@@ -6,7 +6,7 @@ var app = express(); // create global express object
 app.get("/",(req,res)=>{
     
     res.send(
-        "<h1>ABHIJEET TAKE</h1>"
+        "<h1>Abhyuday Ghatale</h1>"
         +"<hr>"
         +"<h4>My Details</h4>"
         +"<ol>"
